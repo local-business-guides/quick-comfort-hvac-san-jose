@@ -25,6 +25,9 @@
 - [HVAC Contractor near Me in San Jose](https://local-business-guides.github.io/quick-comfort-hvac-san-jose/hvac-contractor-near-me/): Need an HVAC Contractor near Me? Get help with heating, cooling, installation, maintenance, or repairs in San Jose. Call Quick Comfort HVAC today.
 - [Air Conditioning Contractor San Jose Homeowners Can Call](https://local-business-guides.github.io/quick-comfort-hvac-san-jose/air-conditioning-contractor-san-jose/): Choose an Air Conditioning Contractor San Jose homeowners can call for installation, maintenance, or repairs. Get help for your home from Quick Comfort HVAC.
 
+## Newsroom
+- [Quick Comfort HVAC Publishes New Guide to Hvac Contractor In San Jose CA](https://local-business-guides.github.io/quick-comfort-hvac-san-jose/news/2026-11-07-quick-comfort-hvac-publishes-new-guide-to-hvac/): Quick Comfort HVAC has published a guide, YouTube video, podcast episode and SoundCloud audio version about HVAC contractors in San Jose. (2026-11-07)
+
 ## Pages
 - [Hvac Contractor in San Jose, California](https://local-business-guides.github.io/quick-comfort-hvac-san-jose/): Get help with heating and cooling needs from a local HVAC team serving San Jose homes. Call +1669-310-3900.
 - [About Quick Comfort HVAC](https://local-business-guides.github.io/quick-comfort-hvac-san-jose/about/): About Quick Comfort HVAC, San Jose.
@@ -32,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/quick-comfort-hvac-san-jose/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/quick-comfort-hvac-san-jose/news/rss.xml)
 - [Main resource site](https://quick-comfort-hvac-san-jose.localbusinesses1.chatgpt.site)
